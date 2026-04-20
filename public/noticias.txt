@@ -1,0 +1,8 @@
+titulo:Bloqueo en Ormuz
+cuerpo:Las fuerzas navales estadounidenses inutilizaron la propulsión de la embarcación tras horas de advertencias y luego la abordaron; la operación fue registrada en imágenes difundidas por el Departamento de Guerra
+fecha:20/4/2026
+---
+titulo:Ucrania destruyó tres buques de guerra rusos
+cuerpo:El Servicio de Seguridad informó que fueron alcanzados dos navíos de desembarco, ‘Yamal’ y ‘Azov’, y un tercer buque no identificado
+fecha:20/4/2026
+---
