@@ -2,7 +2,7 @@
 
 **Actividad Obligatoria N.° 1 — Programación de Aplicaciones Web II**  
 **Alumno/a:** Juan Leandro Calfin Tejada 
-**Enlace al repositorio:** _(completar)_
+**Enlace al repositorio:** https://github.com/leandrocalfin/ao1-mi-servidor-noticias
 
 ## Descripción general
 
